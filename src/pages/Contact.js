@@ -137,7 +137,7 @@ const Contact = () => {
                                     </div>
                                     <div className="flex flex-col">
                                         <h2 className="text-2xl">Office Address</h2>
-                                        <p className="text-gray-400">30 N Gould St Ste N, Sheridan, Wyoming</p>
+                                        <p className="text-gray-400">Jablonec 36, 900 86 Jablonec</p>
                                     </div>
                                 </div>
                     

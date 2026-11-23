@@ -14,7 +14,7 @@ const Intro = () => {
                         <div className="flex-col my-4 text-center lg:text-left lg:my-0 lg:justify-end w-full lg:w-1/2 px-8" data-aos="zoom-in" data-aos-delay="500">
                             
                             <h3 className="text-3xl  text-blue-900 font-bold">
-                                Keelbit Software LLC is a US-based software development company focused on cloud-native solutions, open-source customization, and digital transformation.
+                                Keelbit Software s. r. o. is a software development company focused on cloud-native solutions, open-source customization, and digital transformation.
                             </h3>
                             <div>
                                 <p className='my-3 text-xl text-gray-600 font-semibold'>

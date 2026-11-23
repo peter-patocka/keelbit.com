@@ -1,6 +1,6 @@
 # keelbit.com
 
-Keelbit Software LLC is a US-based software development company focused on cloud-native solutions, open-source customization, and digital transformation. We specialize in designing, developing, and managing scalable applications and infrastructure tailored to each client’s unique goals. With deep expertise in AWS and modern frameworks, our engineers build systems that perform reliably while minimizing long-term costs.
+Keelbit Software s. r. o. is a software development company focused on cloud-native solutions, open-source customization, and digital transformation. We specialize in designing, developing, and managing scalable applications and infrastructure tailored to each client’s unique goals. With deep expertise in AWS and modern frameworks, our engineers build systems that perform reliably while minimizing long-term costs.
 
 Site: https://keelbit.com
 
